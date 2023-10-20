@@ -1,0 +1,14 @@
+strings:
+  inputs: Noveo Training/Resources/en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Noveo Training/Generated/Strings+Generated.swift
+xcassets:
+  inputs:
+    - Noveo Training/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: Noveo Training/Generated/Assets+Generated.swift
+      params:
+        forceProvidesNamespaces: true
+

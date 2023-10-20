@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Smart devices
+
+  Created by Anton Kovalenko on 15.08.2022.
+  
+*/
+/* AUTO-GENERATED */
+"devicesList.title" = "Список устройств";
+"devicesList.cells.lights.intensity" = "Интенсивность%d %%";
+"devicesList.cells.lights.off" = "Выключено";
+"devicesList.cells.rollerShutter.closed" = "Закрыто";
+"devicesList.cells.rollerShutter.openedAtPosition" = "Открыт при%d %%";
+"devicesList.cells.rollerShutter.opened" = "Открыл";
+"devicesList.cells.heater.temperature" = "На %@° C";
+"devicesList.cells.heater.off" = "Выключенный";
+
+"lightControl.intensityDescription.intensity" = "Интенсивность%d %%";
+"lightControl.intensityDescription.off" = "Выключено";
+
+"heaterControl.description.temperature" = "На %@° C";
+
+"rollerShuttersControl.description.closed" = "Закрыто";
+"rollerShuttersControl.description.openedAtPosition" = "Открыт при%d %%";
+"rollerShuttersControl.description.opened" = "Открыл";

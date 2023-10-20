@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "localize": "npm install && node localize.js"
+  },
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "mkpath": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
